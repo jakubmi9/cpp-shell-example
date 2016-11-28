@@ -1,0 +1,3 @@
+[submodule "cpp-shell"]
+	path = cpp-shell
+	url = https://github.com/jakubmi9/cpp-shell
